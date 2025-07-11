@@ -37,7 +37,7 @@ My research sits at the intersection of **language modeling**, and **quantum/cla
 
 ## 🧑‍🏫 Teaching
 
-- Teaching AMATH449/CS479/CS679: Neural Networks in Fall 2025.
+- Teaching AMATH449/CS479/CS679: "Neural Networks" in Fall 2025.
 
 ---
 
