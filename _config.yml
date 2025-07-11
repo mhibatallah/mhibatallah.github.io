@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Mohamed Hibat-Allah"
 title_separator          : "-"
 name                     : #&name "Mohamed Hibat-Allah"
-description              :# &description "personal description"
+description              : # &description "personal description"
 url                      : https://mhibatallah.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mhibatallah/mhibatallah.github.io"
@@ -22,7 +22,7 @@ repository               : "mhibatallah/mhibatallah.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "profile.jpeg"
   name             : "Mohamed Hibat-Allah"
   pronouns         : # example: "she/her"  
   bio              : "Assistant Professor"
@@ -68,7 +68,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : "MedHibatAllah"
+  twitter          : # "MedHibatAllah"
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
