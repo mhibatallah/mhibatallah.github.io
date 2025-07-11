@@ -1,20 +1,14 @@
 ---
 permalink: /
-title: "Hello, there! I'm Mohamed"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+f
 
-
-**Assistant Professor**, Department of Applied Mathematics, University of Waterloo  
-📧 mohamed.hibat.allah@uwaterloo.ca | 📍 MC 6447, Waterloo, ON, Canada
-
-
-## 🔬 Research Interests
-
-My research sits at the intersection of **language modeling**, and **quantum/classical many-body physics**, with interests in:
+I am an Assistant Professor at the Applied Math Department of UWaterloo. My research sits at the intersection of **language modeling**, and **quantum/classical many-body physics**, with interests in:
 
 - Recurrent Neural Network & Transformer‑based wavefunctions for many-body simulation.
 - Generative-enhanced combinatorial optimization.
