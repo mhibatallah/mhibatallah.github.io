@@ -6,11 +6,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-f
 
-I am an Assistant Professor at the Applied Math Department of UWaterloo. My research sits at the intersection of **language modeling**, and **quantum/classical many-body physics**, with interests in:
 
-- Recurrent Neural Network & Transformer‑based wavefunctions for many-body simulation.
+I am an assistant professor at the Applied Math Department of UWaterloo. I am also a Faculty Affiliate at Vector Institute for Artificial Intelligence. My research sits at the intersection of **language modeling**, and **quantum/classical many-body physics**, with interests in:
+
+- Recurrent Neural Network & Transformer‑based quantum states for many-body simulation.
 - Generative-enhanced combinatorial optimization.
 
 ---
@@ -39,4 +39,4 @@ I am an Assistant Professor at the Applied Math Department of UWaterloo. My rese
 
 - **Email:** mhibatallah at uwaterloo dot ca  
 
-I’m always eager to connect with prospective students, collaborators, and anyone interested in the synergy of AI and quantum/many‑body science!
+I’m always eager to connect with prospective students, collaborators, and anyone interested in the synergy of language models and quantum/many‑body science!
