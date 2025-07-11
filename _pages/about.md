@@ -39,4 +39,5 @@ I am an assistant professor at the Applied Math Department of UWaterloo. I am al
 
 - **Email:** mhibatallah at uwaterloo dot ca  
 
-I’m always eager to connect with prospective students, collaborators, and anyone interested in the synergy of language models and quantum/many‑body science!
+I’m always eager to connect with prospective students, collaborators interested in the synergy of language models and quantum/many‑body science! You can check out the [group section](/group/) of this website for more details.
+

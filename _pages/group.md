@@ -4,32 +4,28 @@ title: "Research Group"
 permalink: /group/
 ---
 
-## Current Members
+## 🧑‍🔬 Current Members
 
-### Mohamed Hibat-Allah (PI)
-Principal Investigator
-Department of Applied Mathematics, University of Waterloo
+**Mohamed Hibat-Allah**: Principal Investigator.
 
 ---
 
-### Adil Attar
-PhD Student (joining in Fall 2025)  
+**Adil Attar**: PhD Student (joining in Fall 2025)  
 
 <!-- ### Aya Almaghari
 Master Student (tentative start date: Fall 2025)   -->
 
-### Oussama Zouhry
-Intern at New York University (co-supervision with Amine Abousalah since Winter 2025)  
+**Oussama Zouhry**: Intern at New York University (co-supervision with Amine Abousalah since Winter 2025)  
 
 ---
 
-## Alumni
+##  🎓 Alumni
 
-- **Asif Ayub** (Research Associate - Fall 2024).
+- **Asif Ayub**: Research Associate - Fall 2024.
 
 ---
 
-## Prospective Students
+## 🚀 Prospective Students
 
 We are looking for curious and driven students interested in working at the intersection of **language modeling**, **machine learning**, and **quantum or classical many-body physics**. If you're excited about using modern computational tools to tackle fundamental problems in physics, I encourage you to get in touch.
 
