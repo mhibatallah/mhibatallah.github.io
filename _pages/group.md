@@ -4,7 +4,7 @@ title: "Research Group"
 permalink: /group/
 ---
 
-## 🧑‍💻🧑‍🔬 Current Members
+## 🔬 Current Members
 
 **Mohamed Hibat-Allah**: Principal Investigator.
 
