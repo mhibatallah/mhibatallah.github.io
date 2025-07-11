@@ -15,7 +15,7 @@ permalink: /group/
 <!-- ### Aya Almaghari
 Master Student (tentative start date: Fall 2025)   -->
 
-**Oussama Zouhry**: Intern at New York University (co-supervision with Amine Abousalah since Winter 2025)  
+**Oussama Zouhry**: Intern at New York University (co-supervision with [Amine Aboussalah](https://amineaboussalah.github.io/) since Winter 2025)  
 
 ---
 
