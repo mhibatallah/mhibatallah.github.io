@@ -14,13 +14,14 @@ main:
   - title: "Current and Prospective Group Members"
     url: /group/
 
-
+  - title: "Academic background"
+    url: /cv/
+    
   - title: "Publications"
     # url: /publications/
     url: https://scholar.google.com/citations?user=kALGR-cAAAAJ&hl=en
 
-  - title: "Academic background"
-    url: /cv/
+
 
   # - title: "Talks"
   #   url: /talks/    

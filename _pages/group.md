@@ -7,19 +7,19 @@ permalink: /group/
 ## Current Members
 
 ### Mohamed Hibat-Allah (PI)
-Principal Investigator  
-Department of Applied Mathematics, University of Waterloo 
-Email: mhibatallah at uwaterloo dot ca 
+Principal Investigator
+Department of Applied Mathematics, University of Waterloo
 
 ---
 
 ### Adil Attar
 PhD Student (joining in Fall 2025)  
-Research: language modeling of quantum states 
+
+<!-- ### Aya Almaghari
+Master Student (tentative start date: Fall 2025)   -->
 
 ### Oussama Zouhry
 Intern at New York University (co-supervision with Amine Abousalah since Winter 2025)  
-Research: generative-enhanced combinatorial optimization. 
 
 ---
 
@@ -54,11 +54,11 @@ If you're considering applying, feel free to reach out to discuss possible resea
 
 There are several opportunities for undergraduates to engage in research at the interface of physics and machine learning:
 
-- Projects can count as **co-op placements** or be arranged independently.
-- Many opportunities are **paid**, and funding can often be arranged.
+- Projects can count as **co-op placements**.
+- Many opportunities are **paid**, and funding can be arranged.
 
 **Examples of funding opportunities:**
 - [Undergraduate Student Research Award (USRA)](https://uwaterloo.ca/applied-mathematics/current-undergraduates/undergraduate-research-opportunities) — for Canadian citizens and permanent residents
 - [Mathematics Undergraduate Research Award (MURA)](https://uwaterloo.ca/applied-mathematics/current-undergraduates/undergraduate-research-opportunities) — open to all students at the Math Faculty of UWaterloo.
 
-If you're interested, please contact me early so we can plan a meaningful project and apply for funding if needed.
+If you're interested, please contact me early so we can plan a project and apply for funding if needed.
