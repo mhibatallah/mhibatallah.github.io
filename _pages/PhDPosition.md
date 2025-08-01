@@ -29,7 +29,7 @@ Subject: PhD Application - [Your Name]
 ## Important Notes:
 
 * The selected candidate will subsequently apply through the official University of Waterloo system to complete the application process.
-* Flexible start date: Spring 2026 or Fall 2026.
+* Flexible start date: Winter 2026, Spring 2026 or Fall 2026.
 * We encourage applications from equity-deserving groups in STEM and welcome those with non-traditional academic paths.
 * Applicants with eligible backgrounds are invited to apply; however, priority will be given to domestic applicants (Canadian citizens or permanent residents).
 * Only shortlisted candidates will be contacted for interviews.
