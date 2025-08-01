@@ -10,7 +10,9 @@ I’m looking for a motivated student with a strong background in machine learni
 
 ---
 
-🗓️ Deadline: September 30th, 2025. Applications will be evaluated on a rolling basis until position is filled. So early applications are highly encouraged.
+## 🗓️ Deadline: 
+
+September 30th, 2025. Applications will be evaluated on a rolling basis until position is filled. So early applications are highly encouraged.
 
 ---
 
@@ -30,6 +32,7 @@ Subject: PhD Application - [Your Name]
 
 * The selected candidate will subsequently apply through the official University of Waterloo system to complete the application process.
 * Flexible start date: Winter 2026, Spring 2026 or Fall 2026.
+* Duration of position: 4 years.
 * We encourage applications from equity-deserving groups in STEM and welcome those with non-traditional academic paths.
 * Applicants with eligible backgrounds are invited to apply; however, priority will be given to domestic applicants (Canadian citizens or permanent residents).
 * Only shortlisted candidates will be contacted for interviews.
