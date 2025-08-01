@@ -10,7 +10,7 @@ I’m looking for a motivated student with a strong background in machine learni
 
 ---
 
-🗓️ Deadline: October 1st, 2025. Applications will be evaluated on a rolling basis until position is filled. So early applications are highly encouraged.
+🗓️ Deadline: September 30th, 2025. Applications will be evaluated on a rolling basis until position is filled. So early applications are highly encouraged.
 
 ---
 
