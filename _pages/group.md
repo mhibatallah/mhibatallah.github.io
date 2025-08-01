@@ -24,7 +24,7 @@ permalink: /group/
 
 ## 🚀 Prospective Students
 
-We are looking for curious and driven students interested in working at the intersection of **language modeling**, **machine learning**, and **quantum or classical many-body physics**. If you're excited about using modern computational tools to tackle fundamental problems in physics, I encourage you to get in touch.
+<!-- We are looking for curious and driven students interested in working at the intersection of **language modeling**, **machine learning**, and **quantum or classical many-body physics**. If you're excited about using modern computational tools to tackle fundamental problems in physics, I encourage you to get in touch. -->
 
 ---
 
