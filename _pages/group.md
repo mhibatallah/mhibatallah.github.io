@@ -12,16 +12,13 @@ permalink: /group/
 
 **Adil Attar**: PhD Student (joining in Fall 2025)  
 
-<!-- ### Aya Almaghari
-Master Student (tentative start date: Fall 2025)   -->
-
-**Oussama Zouhry**: Intern at New York University (co-supervision with [Amine Aboussalah](https://amineaboussalah.github.io/) since Winter 2025)  
-
 ---
 
 ##  🎓 Alumni
 
 - **Asif Ayub**: Research Associate - Fall 2024.
+- **Oussama Zouhry**: Intern at New York University (co-supervision with [Amine Aboussalah](https://amineaboussalah.github.io/) in Winter 2025)  
+
 
 ---
 
