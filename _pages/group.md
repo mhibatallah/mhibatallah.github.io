@@ -30,7 +30,7 @@ permalink: /group/
 
 ### Graduate Students (Master’s & PhD)
 
-There is a currently an open PhD position in my lab. You can checkout more details [Here](/PhDPosition/).
+There is a currently an open PhD position in my lab. You can checkout more details [here](/PhDPosition/).
 
 <!-- Students interested in Master's or PhD research are welcome are welcome to reach out to discuss possible research directions aligned with your interests. -->
 
