@@ -33,6 +33,7 @@ Subject: PhD Application - [Your Name]
 * The selected candidate will subsequently apply through the official University of Waterloo system to complete the application process.
 * Flexible start date: Winter 2026, Spring 2026 or Fall 2026.
 * Duration of position: 4 years.
+* A Master's degree (completed or in the process of completion) is required to be eligible for this position.
 * We encourage applications from equity-deserving groups in STEM and welcome those with non-traditional academic paths.
 * Applicants with eligible backgrounds are invited to apply; however, priority will be given to domestic applicants (Canadian citizens or permanent residents).
 * Only shortlisted candidates will be contacted for interviews.
