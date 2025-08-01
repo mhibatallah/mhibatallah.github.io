@@ -13,10 +13,6 @@ I am an assistant professor at the Applied Math Department of UWaterloo. I am al
 - Recurrent Neural Network & Transformer‑based quantum states for many-body simulation.
 - Generative-enhanced combinatorial optimization.
 
-## 📌 Get in Touch
-
-- **Email:** mhibatallah at uwaterloo dot ca  
-
 I’m always eager to connect with prospective students and collaborators interested in the synergy of language models and quantum/many‑body science! You can check out the [group section](/group/) of this website for more details. There is also a PhD position opening [here](/PhDPosition/).
 
 ---
@@ -37,7 +33,7 @@ I’m always eager to connect with prospective students and collaborators intere
 
 ## 🧑‍🏫 Teaching
 
-- Teaching AMATH449/CS479/CS679: "Neural Networks" in Fall 2025.
+- Teaching AMATH449/CS479/CS679: "Neural Networks" in Winter and Fall 2025.
 
 ---
 
