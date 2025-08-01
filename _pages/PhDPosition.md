@@ -20,11 +20,11 @@ To express your interest, please email the following to: 📧 mhibatallah@uwater
 
 Subject: PhD Application - [Your Name]
 
-* Statement of purpose (1 page max) describing research interests, motivation, and goals.
+* Statement of purpose (2 pages max) describing research interests, motivation, and goals.
 * CV (including emails of three academic references).
 * Undergraduate and Graduate academic transcripts.
 * [Optional] Written work such as published paper(s), paper draft, or thesis.
-* [Optional] Personal statement (1 page max) focusing on the applicant’s background, challenges overcome, and contributions to equity, diversity, and inclusion.
+* [Optional] Personal statement (2 pages max) focusing on the applicant’s background, challenges overcome, and contributions to equity, diversity, and inclusion.
 
 ---
 
