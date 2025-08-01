@@ -17,7 +17,7 @@ permalink: /group/
 ##  🎓 Alumni
 
 - **Asif Ayub**: Research Associate - Fall 2024.
-- **Oussama Zouhry**: Intern at New York University (co-supervision with [Amine Aboussalah](https://amineaboussalah.github.io/) in Winter 2025)  
+- **Oussama Zouhry**: Intern at New York University (co-supervision with [Amine Aboussalah](https://amineaboussalah.github.io/) from April to July 2025).  
 
 
 ---
@@ -30,16 +30,9 @@ We are looking for curious and driven students interested in working at the inte
 
 ### Graduate Students (Master’s & PhD)
 
-Students interested in Master's or PhD research are welcome to apply through the appropriate graduate programs at the Applied Mathematics Department of the University of Waterloo.
+There is a currently an open PhD position in my lab. You can checkout more details [Here](/PhDPosition/).
 
-- For application details and requirements, see:
-  - [Master’s Program](https://uwaterloo.ca/future-graduate-students/programs/by-faculty/math/applied-mathematics-master-math-mmath)
-  - [PhD Program](https://uwaterloo.ca/future-graduate-students/programs/by-faculty/math/applied-mathematics-doctor-philosophy-phd)
-- Upcoming application deadlines:
-  - **October 1, 2025** — for a **May 2026** start
-  - **January 15, 2025** — for a **September 2026** start
-
-If you're considering applying, feel free to reach out to discuss possible research directions aligned with your interests.
+<!-- Students interested in Master's or PhD research are welcome are welcome to reach out to discuss possible research directions aligned with your interests. -->
 
 ---
 
