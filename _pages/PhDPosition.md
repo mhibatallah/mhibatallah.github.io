@@ -23,7 +23,7 @@ Subject: PhD Application - [Your Name]
 * Statement of purpose (2 pages max) describing research interests, motivation, and goals.
 * CV (including emails of three academic references).
 * Undergraduate and Graduate academic transcripts.
-* [Optional] Written work such as published paper(s), paper draft, or thesis.
+* [If applicable] Written work such as published paper(s), paper draft, or thesis.
 * [Optional] Personal statement (2 pages max) focusing on the applicant’s background, challenges overcome, and contributions to equity, diversity, and inclusion.
 
 ---
