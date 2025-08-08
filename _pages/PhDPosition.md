@@ -34,9 +34,9 @@ Subject: PhD Application - [Your Full Name]
 
 ## Important Notes:
 
-* The selected candidate will subsequently apply through the official University of Waterloo system to complete the application process.
-* Duration of position: 4 years.
 * A Master's degree (completed or in the process of completion) is required to be eligible for this position.
+* The selected candidate will subsequently apply through the official University of Waterloo system to complete the application process.
+* Duration of PhD position: 4 years.
 * We encourage applications from equity-deserving groups in STEM and welcome those with non-traditional academic paths.
 * Only shortlisted candidates will be contacted for interviews.
 
