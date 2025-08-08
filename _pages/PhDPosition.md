@@ -14,7 +14,7 @@ I’m looking for a motivated student with a strong background in machine learni
 
 September 15th, 2025 for a start date in Winter 2026 and Spring 2026. 
 
-September 15th, 2025 for a start date in Fall 2026. 
+October 15th, 2025 for a start date in Fall 2026. 
 
 Applications will be evaluated on a rolling basis until position is filled. So early applications are highly encouraged.
 
