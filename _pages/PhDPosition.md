@@ -12,7 +12,11 @@ I’m looking for a motivated student with a strong background in machine learni
 
 ## 🗓️ Deadline: 
 
-September 30th, 2025. Applications will be evaluated on a rolling basis until position is filled. So early applications are highly encouraged.
+September 15th, 2025 for a start date in Winter 2026 and Spring 2026. 
+
+September 15th, 2025 for a start date in Fall 2026. 
+
+Applications will be evaluated on a rolling basis until position is filled. So early applications are highly encouraged.
 
 ---
 
@@ -31,11 +35,9 @@ Subject: PhD Application - [Your Name]
 ## Important Notes:
 
 * The selected candidate will subsequently apply through the official University of Waterloo system to complete the application process.
-* Flexible start date: Winter 2026, Spring 2026 or Fall 2026.
 * Duration of position: 4 years.
 * A Master's degree (completed or in the process of completion) is required to be eligible for this position.
 * We encourage applications from equity-deserving groups in STEM and welcome those with non-traditional academic paths.
-* Applicants with eligible backgrounds are invited to apply; however, priority will be given to domestic applicants (Canadian citizens or permanent residents).
 * Only shortlisted candidates will be contacted for interviews.
 
 ---
@@ -43,6 +45,6 @@ Subject: PhD Application - [Your Name]
 ## Ideal Candidate Profile (as an example):
 * Solid background in machine learning and physics.
 * Strong coding skills (Python experience is essential).
-* Familiarity with ML libraries (e.g., JAX, PyTorch, TensorFlow).
+* Experience with one of the following Machine Learning libraries: JAX, PyTorch, or TensorFlow.
 * Research experience and a curiosity-driven mindset.
 * Strong communication and collaboration skills.
