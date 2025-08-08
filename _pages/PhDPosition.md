@@ -20,15 +20,17 @@ Applications will be evaluated on a rolling basis until position is filled. So e
 
 ---
 
-To express your interest, please email the following to: 📧 mhibatallah [at] uwaterloo [dot] ca
+To express your interest, you can submit an application using the following Google Form: https://forms.gle/Lz2GkGctSs3NaVQ69
 
-Subject: PhD Application - [Your Full Name]
+The application form involves the following documents:
 
 * Statement of purpose (2 pages max) describing research interests, motivation, and goals.
 * CV (including emails of three academic references).
 * Undergraduate and Graduate academic transcripts.
 * [If applicable] Written work such as published paper(s), paper draft, or thesis.
 * [Optional] Personal statement (2 pages max) focusing on contributions to equity, diversity, and inclusion and challenges overcome by the candidate.
+
+There is no need to send a follow-up email as a notification email will be sent automatically to the reviewers.
 
 ---
 
