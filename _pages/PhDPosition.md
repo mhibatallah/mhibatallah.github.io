@@ -20,7 +20,7 @@ Applications will be evaluated on a rolling basis until position is filled. So e
 
 ---
 
-To express your interest, please email the following to: 📧 mhibatallah@uwaterloo.ca
+To express your interest, please email the following to: 📧 mhibatallah [at] uwaterloo [dot] ca
 
 Subject: PhD Application - [Your Full Name]
 
