@@ -16,7 +16,7 @@ September 15th, 2025 for a start date in Winter 2026 or Spring 2026.
 
 October 15th, 2025 for a start date in Fall 2026. 
 
-Applications will be evaluated on a rolling basis until position is filled. So early applications are highly encouraged.
+Applications will be evaluated on a rolling basis, so early applications are highly encouraged.
 
 ---
 
