@@ -38,7 +38,7 @@ Subject: PhD Application - [Your Full Name]
 * The selected candidate will subsequently apply through the official University of Waterloo system to complete the application process.
 * Duration of PhD position: 4 years.
 * We encourage applications from equity-deserving groups in STEM and welcome those with non-traditional academic paths.
-* Only shortlisted candidates will be contacted for interviews.
+* **Only** shortlisted candidates will be contacted for interviews.
 
 ---
  
