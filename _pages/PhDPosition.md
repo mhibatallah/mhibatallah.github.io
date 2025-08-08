@@ -22,7 +22,7 @@ Applications will be evaluated on a rolling basis until position is filled. So e
 
 To express your interest, please email the following to: 📧 mhibatallah@uwaterloo.ca
 
-Subject: PhD Application - [Your Name]
+Subject: PhD Application - [Your Full Name]
 
 * Statement of purpose (2 pages max) describing research interests, motivation, and goals.
 * CV (including emails of three academic references).
