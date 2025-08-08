@@ -28,7 +28,7 @@ Subject: PhD Application - [Your Full Name]
 * CV (including emails of three academic references).
 * Undergraduate and Graduate academic transcripts.
 * [If applicable] Written work such as published paper(s), paper draft, or thesis.
-* [Optional] Personal statement (2 pages max) focusing on the applicant’s background, challenges overcome, and contributions to equity, diversity, and inclusion.
+* [Optional] Personal statement (2 pages max) focusing on contributions to equity, diversity, and inclusion and challenges overcome by the candidate.
 
 ---
 
