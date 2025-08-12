@@ -24,7 +24,7 @@ To express your interest, you can submit an application using the following Goog
 
 The application form involves the following documents:
 
-* Statement of purpose (2 pages max) describing research interests, motivation, and goals.
+* Statement of purpose (2 pages max) describing the candidate's background, research interests, motivation, and goals.
 * CV (including emails of three academic references).
 * Undergraduate and Graduate academic transcripts.
 * [If applicable] Written work such as published paper(s), paper draft, or thesis.
