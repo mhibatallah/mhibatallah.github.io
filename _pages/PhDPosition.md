@@ -32,7 +32,7 @@ The application form involves the following documents:
 * [If applicable] Written work such as published paper(s), paper draft, or thesis.
 * [Optional] Personal statement (2 pages max) focusing on contributions to equity, diversity, and inclusion and challenges overcome by the candidate.
 
-There is no need to send a follow-up email as a notification email will be sent automatically to the reviewers.
+For questions about the application and required documents, candidates can reach out at mhibatallah [at] uwaterloo [dot] ca. There is no need to send a follow-up email after applying as a notification email will be sent automatically to the reviewers.
 
 ---
 
