@@ -4,7 +4,7 @@ title: "📢 PhD Position Opening - Applied Mathematics (University of Waterloo)
 permalink: /PhDPosition/
 ---
 
-I’m excited to announce an opening for a PhD student in my lab in the Department of Applied Mathematics at the University of Waterloo. This PhD position involves a research focus on quantum many-body physics, optimization and language models.
+I’m excited to announce an opening for a PhD student in my lab in the Department of Applied Mathematics at the University of Waterloo. This PhD position involves a research focus on quantum many-body physics, combinatorial optimization and language models.
 
 I’m looking for a motivated student with a strong background in machine learning and physics, a passion for coding, and a curiosity-driven mindset.
 
