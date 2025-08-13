@@ -41,7 +41,7 @@ For questions about the application and required documents, candidates can reach
 * A Master's degree (completed or in the process of completion) is required to be eligible for this position.
 * Duration of PhD position: 4 years.
 * We encourage applications from equity-deserving groups in STEM and welcome those with non-traditional academic paths.
-* The selected candidate will subsequently apply through the official University of Waterloo system to complete the application process.
+* The selected candidate will subsequently apply through the official University of Waterloo system to complete the admission process.
 * Due to the volume of applications, only shortlisted candidates will be contacted for interviews. If you do not hear from us after applying by the end of February 2026, please consider that we’ve moved forward with other candidates. 
 
 ---
