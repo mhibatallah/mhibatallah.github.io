@@ -10,7 +10,7 @@ permalink: /group/
 
 ---
 
-**Adil Attar**: PhD Student (joining in Fall 2025).  
+**Adil Attar**: PhD Student (since Fall 2025).  
 **Asif Ayub**: Part-time Research Associate - Fall 2025.
 
 <!-- ---
