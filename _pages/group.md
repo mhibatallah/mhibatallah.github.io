@@ -38,6 +38,8 @@ There is a currently an open PhD position in my lab. You can checkout more detai
 
 ### Undergraduate Students
 
+For Winter 26 and Spring 26, internship positions have been already filled. If you're interested in Fall 26 or after, feel free to contact me so that can plan a project and apply for funding if needed.
+
 There are several opportunities for undergraduates to engage in research at the interface of physics and machine learning:
 
 - Projects can count as **co-op placements**.
@@ -47,4 +49,3 @@ There are several opportunities for undergraduates to engage in research at the 
 - [Undergraduate Student Research Award (USRA)](https://uwaterloo.ca/applied-mathematics/current-undergraduates/undergraduate-research-opportunities) — for Canadian citizens and permanent residents
 - [Mathematics Undergraduate Research Award (MURA)](https://uwaterloo.ca/applied-mathematics/current-undergraduates/undergraduate-research-opportunities) — open to all students at the Math Faculty of UWaterloo.
 
-If you're interested, please contact me early so we can plan a project and apply for funding if needed.
