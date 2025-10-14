@@ -16,7 +16,7 @@ For this single position, there are two deadlines based on the preferable starti
 
 September 15th, 2025 for a start date in Winter 2026 or Spring 2026. 
 
-October 15th, 2025 for a start date in Fall 2026. 
+October 19th, 2025 for a start date in Fall 2026. 
 
 Applications will be evaluated on a rolling basis, so early applications are highly encouraged.
 
