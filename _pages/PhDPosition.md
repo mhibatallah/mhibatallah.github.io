@@ -12,13 +12,9 @@ I’m looking for a motivated student with a strong background in machine learni
 
 ## 🗓️ Deadline: 
 
-For this single position, there are two deadlines based on the preferable starting date:
-
-September 15th, 2025 for a start date in Winter 2026 or Spring 2026. 
-
 October 19th, 2025 for a start date in Fall 2026. 
 
-Applications will be evaluated on a rolling basis until the position is filled, so you can still apply after the deadline.
+Applications will be evaluated on a rolling basis until the position is filled, so you can still apply if you missed the deadline.
 
 ---
 
