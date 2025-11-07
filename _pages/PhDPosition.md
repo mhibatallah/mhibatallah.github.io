@@ -14,7 +14,7 @@ I’m looking for a motivated student with a strong background in machine learni
 
 October 19th, 2025 for a start date in Fall 2026 (The deadline for the informal application has passed). 
 
-If you are still interested, you can apply to the Applied Math PhD program through the [official portal](https://uwaterloo.ca/future-graduate-students/programs/by-faculty/math/applied-mathematics-doctor-philosophy-phd) while providing my name in the list of faculty you are interested in working with.
+If you are interested, you can still apply to the Applied Math PhD program through the [official portal](https://uwaterloo.ca/future-graduate-students/programs/by-faculty/math/applied-mathematics-doctor-philosophy-phd) while providing my name in the list of faculty you are interested in working with.
 
 <!-- ---
 
