@@ -12,11 +12,11 @@ I’m looking for a motivated student with a strong background in machine learni
 
 ## 🗓️ Deadline: 
 
-October 19th, 2025 for a start date in Fall 2026. 
+October 19th, 2025 for a start date in Fall 2026 (The deadline for the informal application has passed). 
 
-Applications will be evaluated on a rolling basis until the position is filled, so you can still apply if you missed the deadline.
+If you are still interested, you can still apply to the Applied Math PhD program through the [official portal](https://uwaterloo.ca/future-graduate-students/programs/by-faculty/math/applied-mathematics-doctor-philosophy-phd) while providing my name in the list of faculty you are interested in working with.
 
----
+<!-- ---
 
 To express your interest, you can submit an application using the following Google Form: [Link to Google Form](https://forms.gle/hUp6kZ63DpGVaMpX6).
 
@@ -28,7 +28,7 @@ The application form involves the following documents:
 * [If applicable] Written work such as published paper(s), paper draft, or thesis.
 * [Optional] Personal statement (2 pages max) focusing on contributions to equity, diversity, and inclusion and challenges overcome by the candidate.
 
-For questions about the application and required documents, candidates can reach out at mhibatallah [at] uwaterloo [dot] ca. There is no need to send a follow-up email after applying as a notification email will be sent automatically to the reviewers.
+For questions about the application and required documents, candidates can reach out at mhibatallah [at] uwaterloo [dot] ca. There is no need to send a follow-up email after applying as a notification email will be sent automatically to the reviewers. -->
 
 ---
 
@@ -38,7 +38,7 @@ For questions about the application and required documents, candidates can reach
 * Duration of PhD position: 4 years.
 * We encourage applications from equity-deserving groups in STEM and welcome those with non-traditional academic paths.
 * The selected candidate will subsequently apply through the official University of Waterloo system to complete the admission process.
-* Due to the volume of applications, only shortlisted candidates will be contacted for interviews. If you do not hear from us after applying by the end of February 2026, please consider that we’ve moved forward with other candidates. 
+* Due to the volume of applications, only shortlisted candidates will be contacted for interviews. If you do not hear from us after applying by the end of April 2026, please consider that we’ve moved forward with other candidates. 
 
 ---
  
