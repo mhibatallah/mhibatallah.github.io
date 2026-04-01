@@ -33,7 +33,7 @@ permalink: /group/
 
 <!-- There is a currently an open PhD position in my lab. You can checkout more details [here](/PhDPosition/). -->
 
-I am currently at capacity in terms of supervision. However, students who already have funding and who are interested in Master's or PhD research are welcome are welcome to reach out to discuss possible research directions aligned with their interests.
+I am currently at capacity in terms of supervision. However, students who already have funding and who are interested in Master's or PhD research are welcome to reach out to discuss possible research directions aligned with their interests.
 
 ---
 
