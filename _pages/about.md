@@ -33,7 +33,7 @@ I’m eager to connect with prospective students and collaborators interested in
 
 ## 🧑‍🏫 Teaching
 
-- Teaching AMATH449/CS479/CS679: "Neural Networks" in Winter and Fall 2025.
+- Teaching AMATH449/CS479/CS679: "Neural Networks".
 
 ---
 
