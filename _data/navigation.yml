@@ -14,8 +14,8 @@ main:
   - title: "Current and Prospective Group Members"
     url: /group/
 
-  - title: "Open PhD Position"
-    url: /PhDPosition/
+  # - title: "Open PhD Position"
+  #   url: /PhDPosition/
 
   - title: "Academic background"
     url: /cv/

@@ -8,12 +8,12 @@ redirect_from:
 ---
 
 
-I am an assistant professor at the Applied Math Department of UWaterloo. I am also a Faculty Affiliate at Vector Institute for Artificial Intelligence. My research sits at the intersection of **language modeling**, and **quantum/classical many-body physics**, with interests in:
+I am an assistant professor at the Applied Math Department of UWaterloo. I am interested in the intersection of **language modeling**, and **quantum/classical many-body physics**, with interests in:
 
 - Recurrent Neural Network & Transformer‑based quantum states for many-body simulation.
 - Generative-enhanced combinatorial optimization.
 
-I’m always eager to connect with prospective students and collaborators interested in the synergy of language models and quantum/many‑body science! You can check out the [group section](/group/) of this website for more details. There is also a PhD position opening [here](/PhDPosition/).
+I’m eager to connect with prospective students and collaborators interested in the synergy of language models and quantum/many‑body science! You can check out the [group section](/group/) of this website for more details. 
 
 ---
 

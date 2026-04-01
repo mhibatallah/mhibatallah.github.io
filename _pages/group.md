@@ -11,7 +11,7 @@ permalink: /group/
 ---
 
 **Adil Attar**: PhD Student (since Fall 2025).  
-**Asif Ayub**: Part-time Research Associate - Fall 2025.
+<!-- **Asif Ayub**: Part-time Research Associate - Fall 2025. -->
 
 <!-- ---
 
@@ -31,9 +31,9 @@ permalink: /group/
 
 ### Graduate Students (Master’s & PhD)
 
-There is a currently an open PhD position in my lab. You can checkout more details [here](/PhDPosition/).
+<!-- There is a currently an open PhD position in my lab. You can checkout more details [here](/PhDPosition/). -->
 
-<!-- Students interested in Master's or PhD research are welcome are welcome to reach out to discuss possible research directions aligned with your interests. -->
+I am currently at capacity in terms of supervision. However students who already have funding and who are interested in Master's or PhD research are welcome are welcome to reach out to discuss possible research directions aligned with their interests.
 
 ---
 
