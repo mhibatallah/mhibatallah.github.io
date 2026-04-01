@@ -8,9 +8,9 @@ redirect_from:
 ---
 
 
-I am an assistant professor at the Applied Math Department of UWaterloo. I am interested in the intersection of **language modeling**, and **quantum/classical many-body physics**, with interests in:
+I am an assistant professor at the Applied Math Department of UWaterloo. I am doing research at the interface of **language models**, and **quantum/classical many-body physics**, with interests in:
 
-- Recurrent Neural Network & Transformer‑based quantum states for many-body simulation.
+- Recurrent Neural Network & Transformer‑based quantum states for quantum many-body simulation.
 - Generative-enhanced combinatorial optimization.
 
 I’m eager to connect with prospective students and collaborators interested in the synergy of language models and quantum/many‑body science! You can check out the [group section](/group/) of this website for more details. 
