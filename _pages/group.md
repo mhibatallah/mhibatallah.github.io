@@ -7,9 +7,9 @@ permalink: /group/
 ## 🔬 Current Members
 
 **Mohamed Hibat-Allah**: Principal Investigator.
-**Adil Attar**: PhD Student (since Fall 2025).  
-**Mouad Belgacem**: PhD Student (incoming on Fall 2026).  
-**Hanwu Zhou**: Spring 2026 co-op student at UWaterloo. 
+**Adil Attar**: PhD Student (since Fall 2025) - M.S. in Physics at University of Alberta.  
+**Mouad Belgacem**: PhD Student (incoming on Fall 2026) - M.S. in Physics at École Normale Supérieure de Lyon.  
+**Hanwu Zhou**: Spring 2026 co-op UWaterloo student. 
 <!-- **Asif Ayub**: Part-time Research Associate - Fall 2025. -->
 
 ---
