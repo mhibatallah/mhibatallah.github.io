@@ -18,7 +18,7 @@ permalink: /group/
 
 ##  🎓 Alumni
 
-- **Asif Ayub**: Research Associate - Fall 2024 and Fall 2025.
+**Asif Ayub**: Research Associate - Fall 2024 and Fall 2025.
 <!-- - **Oussama Zouhry**: Intern at New York University (co-supervision with [Amine Aboussalah](https://amineaboussalah.github.io/) from April to July 2025).    -->
 
 
