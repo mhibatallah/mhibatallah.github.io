@@ -17,8 +17,6 @@ permalink: /group/
 ##  🎓 Alumni
 
 **Asif Ayub**: Research Associate - Fall 2024 and Fall 2025.
-<!-- - **Oussama Zouhry**: Intern at New York University (co-supervision with [Amine Aboussalah](https://amineaboussalah.github.io/) from April to July 2025).    -->
-
 
 ---
 
@@ -26,11 +24,7 @@ permalink: /group/
 
 <!-- We are looking for curious and driven students interested in working at the intersection of **language modeling**, **machine learning**, and **quantum or classical many-body physics**. If you're excited about using modern computational tools to tackle fundamental problems in physics, I encourage you to get in touch. -->
 
----
-
 ### Graduate Students (Master’s & PhD)
-
-<!-- There is a currently an open PhD position in my lab. You can checkout more details [here](/PhDPosition/). -->
 
 I am currently at capacity in terms of graduate supervision. However, students who already have funding and who are interested in Master's or PhD research are welcome to reach out to discuss possible research directions aligned with their interests.
 
