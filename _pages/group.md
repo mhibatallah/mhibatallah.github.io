@@ -39,7 +39,7 @@ I have an opening for a domestic Master's student. If you are interested in F28,
 
 ### Undergraduate Students
 
-For Fall 26 and Winter 27, internship positions have been already filled. If you're interested in Spring 27 or after, feel free to contact me so that to see if there is mutual interest and and apply for funding if needed.
+For Fall 26 and Winter 27, internship positions have been already filled. If you're interested in Spring 27 or after, feel free to contact me to see if there is mutual interest and and apply for funding if needed.
 
 There are several opportunities for undergraduates to engage in research at the interface of physics and machine learning:
 
