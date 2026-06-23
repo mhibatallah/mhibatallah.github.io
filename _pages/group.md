@@ -8,9 +8,9 @@ permalink: /group/
 
 **Mohamed Hibat-Allah**: Principal Investigator.
 
-**Adil Attar**: PhD Student (since Fall 2025) - M.S. in Physics at University of Alberta.  
+**Adil Attar**: PhD Student (since Fall 2025) - former M.S. in Physics at University of Alberta.  
 
-**Mouad Belgacem**: PhD Student (incoming on Fall 2026) - M.S. in Physics at École Normale Supérieure de Lyon. 
+**Mouad Belgacem**: PhD Student (incoming on Fall 2026) - former M.S. in Physics at École Normale Supérieure de Lyon. 
 
 **Hanwu Zhou**: Spring 2026 co-op UWaterloo student. 
 <!-- **Asif Ayub**: Part-time Research Associate - Fall 2025. -->
