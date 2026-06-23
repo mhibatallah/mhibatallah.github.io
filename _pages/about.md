@@ -13,7 +13,7 @@ I am an assistant professor at the Applied Math Department of UWaterloo. I am do
 - Recurrent Neural Network & Transformer‑based quantum states for quantum many-body simulation.
 - Generative-enhanced combinatorial optimization.
 
-I’m eager to connect with prospective students and collaborators interested in the synergy of language models and quantum/many‑body science! You can check out the [group section](/group/) of this website for more details. 
+I’m eager to connect with prospective students and collaborators interested in the synergy of language models and quantum/many‑body science! You can check out the [group section](/group/) of this website for more details about group members and possible position openings.
 
 ---
 
