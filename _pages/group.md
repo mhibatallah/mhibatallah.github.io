@@ -25,9 +25,13 @@ permalink: /group/
 
 <!-- We are looking for curious and driven students interested in working at the intersection of **language modeling**, **machine learning**, and **quantum or classical many-body physics**. If you're excited about using modern computational tools to tackle fundamental problems in physics, I encourage you to get in touch. -->
 
-### Graduate Students (Master’s & PhD)
+### Graduate Students 
 
-I am currently at capacity in terms of graduate supervision. However, students who already have funding and who are interested in Master's or PhD research are welcome to reach out to discuss possible research directions aligned with their interests.
+# PhD 
+I am currently at capacity in terms of PhD student supervision. However, students who already have funding and who are interested in PhD research are welcome to reach out to discuss possible research directions aligned with their interests.
+
+# Master (thesis program)
+I have an opening for a domestic Master's student. If you are interested in F28, you can send a CV, transcripts, and a statement of interest by email well ahead of the Jan 15 deadline. You can also formally apply here for the MMath (thesis) program https://uwaterloo.ca/applied-mathematics/graduate-students/applying before the Jan 15 deadline.
 
 ### Undergraduate Students
 
