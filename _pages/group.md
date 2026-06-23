@@ -27,7 +27,7 @@ permalink: /group/
 
 ### Postdocs
 
-There is no postdoc opening at the moment. However, if you already have funding and interested, feel free to reach out to discuss possible research directions.
+There is no postdoc opening at the moment. However, if you already have funding and are interested, feel free to reach out to discuss possible research directions.
 
 ### Graduate Students 
 
