@@ -31,10 +31,10 @@ There is no postdoc opening at the moment. However, if you already have funding 
 
 ### Graduate Students 
 
-#### PhD 
+### PhD:
 I am currently at capacity in terms of PhD student supervision. However, students who already have funding and who are interested in PhD research are welcome to reach out to discuss possible research directions aligned with their interests.
 
-#### Master (thesis program)
+### Master (thesis program):
 I have an opening for a domestic Master's student. If you are interested in F28, you can send a CV, transcripts, and a statement of interest by email well ahead of the Jan 15 deadline. You can also formally apply here for the MMath (thesis) program https://uwaterloo.ca/applied-mathematics/graduate-students/applying before the Jan 15 deadline.
 
 ### Undergraduate Students
