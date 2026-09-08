@@ -10,14 +10,17 @@ permalink: /group/
 
 **Adil Attar**: PhD Student (since Fall 2025) - former M.S. in Physics at University of Alberta.  
 
-**Mouad Belgacem**: PhD Student (incoming on Fall 2026) - former M.S. in Physics at École Normale Supérieure de Lyon. 
+**Mouad Belgacem**: PhD Student (since Fall 2026) - former M.S. in Physics at École Normale Supérieure de Lyon. 
 
-**Hanwu Zhou**: Spring 2026 co-op UWaterloo student. 
+**Hisham Khan**: Fall 2026 co-op UWaterloo student. 
+
 <!-- **Asif Ayub**: Part-time Research Associate - Fall 2025. -->
 
 ##  🎓 Alumni
 
 **Asif Ayub**: Research Associate - Fall 2024 and Fall 2025.
+**Hanwu Zhou**: Spring 2026 co-op UWaterloo student. 
+
 
 ---
 
