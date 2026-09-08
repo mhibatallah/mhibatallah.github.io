@@ -14,8 +14,6 @@ permalink: /group/
 
 **Hisham Khan**: Fall 2026 co-op UWaterloo student. 
 
-<!-- **Asif Ayub**: Part-time Research Associate - Fall 2025. -->
-
 ##  🎓 Alumni
 
 **Asif Ayub**: Research Associate - Fall 2024 and Fall 2025.
