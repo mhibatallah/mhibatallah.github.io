@@ -17,6 +17,7 @@ permalink: /group/
 ##  🎓 Alumni
 
 **Asif Ayub**: Research Associate - Fall 2024 and Fall 2025.
+
 **Hanwu Zhou**: Spring 2026 co-op UWaterloo student. 
 
 
